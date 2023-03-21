@@ -1,0 +1,74 @@
+[
+    {
+      "codigo": "001",
+      "nome": "Camiseta Branca",
+      "descricao": "Camiseta branca de algodão com gola redonda",
+      "preco": 29.99,
+      "status": "true",
+      "imagem": "camiseta.jpg"
+    },
+    {
+      "codigo": "002",
+      "nome": "Calça Jeans",
+      "descricao": "Calça jeans azul clara com corte reto",
+      "preco": 69.99,
+      "status": "true",
+      "imagem": "calca.jpg"
+    },
+    {
+      "codigo": "003",
+      "nome": "Tênis Esportivo",
+      "descricao": "Tênis esportivo preto e branco com sola de borracha",
+      "preco": 99.99,
+      "status": "true",
+      "imagem": "tenis.jpg"
+    },
+    {
+      "codigo": "004",
+      "nome": "Jaqueta de Couro",
+      "descricao": "Jaqueta de couro preta com fecho de zíper",
+      "preco": 149.99,
+      "status": "true",
+      "imagem": "jaqueta.jpg"
+    },
+    {
+      "codigo": "005",
+      "nome": "Vestido Floral",
+      "descricao": "Vestido floral com mangas curtas e decote em V",
+      "preco": 79.99,
+      "status": "false",
+      "imagem": "vestido.jpg"
+    },
+    {
+      "codigo": "006",
+      "nome": "Óculos de Sol",
+      "descricao": "Óculos de sol com armação preta e lentes espelhadas",
+      "preco": 39.99,
+      "status": "true",
+      "imagem": "oculos.jpg"
+    },
+    {
+      "codigo": "007",
+      "nome": "Bolsa de Couro",
+      "descricao": "Bolsa de couro preta com alça ajustável",
+      "preco": 89.99,
+      "status": "false",
+      "imagem": "bolsa.jpg"
+    },
+    {
+      "codigo": "008",
+      "nome": "Saia Jeans",
+      "descricao": "Saia jeans azul com botões na frente",
+      "preco": 49.99,
+      "status": "true",
+      "imagem": "saia.jpg"
+    },
+    {
+      "codigo": "009",
+      "nome": "Blusa de Crochê",
+      "descricao": "Blusa de crochê branca com mangas compridas",
+      "preco": 59.99,
+      "status": "true",
+      "imagem": "blusa.jpg"
+    }
+]
