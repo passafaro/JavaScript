@@ -1,5 +1,6 @@
 # Projeto JavaScript - Demonstração de Conhecimentos
-##
+
+## Seja bem vindo
 
 Este projeto tem como objetivo demonstrar conhecimentos em JavaScript e foi desenvolvido como parte de um processo de aprendizagem. As tecnologias utilizadas para o desenvolvimento deste projeto foram HTML, CSS, JavaScript e JSON.
 
@@ -16,3 +17,7 @@ Limpeza do Carrinho de Compras: ao clicar no botão "Limpar carrinho", todos os 
 Atualização do Total do Carrinho: o total de compras no carrinho é atualizado ao adicionar ou remover produtos, exibindo o número de itens e o valor total da compra.
 
 Obtenção dos Produtos do Carrinho: é possível obter um array com os produtos presentes no carrinho de compras, carregando os dados do localStorage.
+
+Para a visualização deste projeto
+encontra-se hospedado no seguinte link:
+http://alessandropassafaro.siteseguro.ws/projetoJavaScript/
