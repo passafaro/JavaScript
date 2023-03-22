@@ -1,7 +1,7 @@
 # Projeto JavaScript - Demonstração de Conhecimentos
 ##
 
-Este projeto tem como objetivo demonstrar conhecimentos em JavaScript e foi desenvolvido pelo usuário "alessandropassaf1" como parte de um processo de aprendizagem. As tecnologias utilizadas para o desenvolvimento deste projeto foram HTML, CSS, JavaScript e JSON.
+Este projeto tem como objetivo demonstrar conhecimentos em JavaScript e foi desenvolvido como parte de um processo de aprendizagem. As tecnologias utilizadas para o desenvolvimento deste projeto foram HTML, CSS, JavaScript e JSON.
 
 O projeto consiste em uma listagem de produtos e um carrinho de compras, com as seguintes funcionalidades:
 
